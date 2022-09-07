@@ -1,0 +1,3 @@
+﻿using BeatService;
+
+HostConfig.Config();
